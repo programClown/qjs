@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>www/index.html</file>
+        <file>www/dist/css/app.9be46b7b.css</file>
+        <file>www/dist/css/chunk-vendors.6fd71983.css</file>
+        <file>www/dist/fonts/element-icons.535877f5.woff</file>
+        <file>www/dist/fonts/element-icons.732389de.ttf</file>
+        <file>www/dist/fonts/iconfont.2c9fcf3f.woff</file>
+        <file>www/dist/fonts/iconfont.5eca46f8.woff2</file>
+        <file>www/dist/fonts/iconfont.fbaa8326.ttf</file>
+        <file>www/dist/img/blueSky.3c7f8ccb.jpg</file>
+        <file>www/dist/img/brainImpairedPink.511fee22.jpg</file>
+        <file>www/dist/img/catalogOrganization.380bb277.jpg</file>
+        <file>www/dist/img/classic.733f273c.jpg</file>
+        <file>www/dist/img/classic2.cdfe2a8d.jpg</file>
+        <file>www/dist/img/classic3.19d6c347.jpg</file>
+        <file>www/dist/img/classic4.087902fc.jpg</file>
+        <file>www/dist/img/classicBlue.4b8243c6.jpg</file>
+        <file>www/dist/img/classicGreen.c2ae7bde.jpg</file>
+        <file>www/dist/img/dark.894c1d36.jpg</file>
+        <file>www/dist/img/dark2.c49dc11c.jpg</file>
+        <file>www/dist/img/default.1312a3ba.jpg</file>
+        <file>www/dist/img/earthYellow.c35e546d.jpg</file>
+        <file>www/dist/img/freshGreen.0e344e3e.jpg</file>
+        <file>www/dist/img/freshRed.1c5bde77.jpg</file>
+        <file>www/dist/img/gold.3093b3c8.jpg</file>
+        <file>www/dist/img/greenLeaf.6789e8fc.jpg</file>
+        <file>www/dist/img/logicalStructure.624920ce.jpg</file>
+        <file>www/dist/img/mindMap.223b38aa.jpg</file>
+        <file>www/dist/img/minions.c2a93f9e.jpg</file>
+        <file>www/dist/img/mint.7933f60a.jpg</file>
+        <file>www/dist/img/organizationStructure.8064f4da.jpg</file>
+        <file>www/dist/img/pinkGrape.32c2587b.jpg</file>
+        <file>www/dist/img/romanticPurple.7607e58a.jpg</file>
+        <file>www/dist/img/skyGreen.4cfa829a.jpg</file>
+        <file>www/dist/img/vitalityOrange.5dd9014f.jpg</file>
+        <file>www/dist/js/app.0fd74a8c.js</file>
+        <file>www/dist/js/chunk-2d20ec02.81d632f4.js</file>
+        <file>www/dist/js/chunk-2d216b67.228f2009.js</file>
+        <file>www/dist/js/chunk-35b0a040.cb76da7d.js</file>
+        <file>www/dist/js/chunk-vendors.e2fb5b67.js</file>
+        <file>www/dist/enJFNMHnedQTYTESGfDkctCp2.jpeg</file>
+    </qresource>
+</RCC>
